@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap');
+
+*{
+    box-sizing: border-box;
+    background-color: #cbced1;
+}
+
+.pageHeading{
+    margin-top: 25px;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 4em;
+}
+
+.pageIntro{
+    justify-content: center;
+    text-align: center;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 2em;
+}
+
+.pageIntroThankyou{
+    justify-content: center;
+    text-align: center;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 2em;
+}
