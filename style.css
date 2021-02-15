@@ -6,8 +6,13 @@
     background-color: #cbced1;
 }
 
+body{
+    padding: 0;
+    margin: 0;
+}
+
 .pageHeading{
-    margin-top: 25px;
+    /* margin-top: 1px; */
     justify-content: center;
     text-align: center;
     font-family: 'Roboto Mono', monospace;
