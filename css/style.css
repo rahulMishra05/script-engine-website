@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
 
 *{
     box-sizing: border-box;
@@ -17,6 +18,11 @@ body{
     text-align: center;
     font-family: 'Roboto Mono', monospace;
     font-size: 4em;
+    /* color: rgb(199, 183, 183); */
+    border: 2px solid #0f0;
+    border-radius: 5rem 10rem;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 .pageIntro{
@@ -31,4 +37,11 @@ body{
     text-align: center;
     font-family: 'Yanone Kaffeesatz', sans-serif;
     font-size: 1.75em;
+}
+
+.secretMessage{
+    color: #0f0;
+    text-align: center;
+    font-size: 1.15em;
+    font-family: 'Inconsolata', monospace;
 }
