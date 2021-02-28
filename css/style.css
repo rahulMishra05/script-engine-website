@@ -45,3 +45,26 @@ body{
     font-size: 1.15em;
     font-family: 'Inconsolata', monospace;
 }
+
+h2.heading{
+    font-size: 3.25em;
+    font-family: 'Inconsolata', monospace;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.card-title{
+    color: black;
+}
+
+.card-text{
+    color: black;
+}
+
+.card-body{
+    margin-top: 35px;
+}
+
+.card-img{
+    position: relative;
+}
