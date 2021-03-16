@@ -70,11 +70,20 @@ h2.heading{
 }
 
 .footer {
-    height: 50px;
+    height: 80px;
     margin-top: -50px;
     color: white;
     text-align: center;
-    background-color: red;
+    background-color: #bd1c1c;
     padding-top: 10px;
     margin-top: 10px;
+    font-size: 1.25rem;
   }
+
+.footer_social{
+    margin-top: -15px;
+    justify-content: space-between;
+    padding-left: 10px;
+}
+
+  
