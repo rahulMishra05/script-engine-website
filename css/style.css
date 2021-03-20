@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
 
 *{
     box-sizing: border-box;
@@ -86,4 +87,7 @@ h2.heading{
     padding-left: 10px;
 }
 
+.footer_text{
+    font-family: 'Syne Mono', monospace;
+}
   
